@@ -1,2 +1,2 @@
-# git-example
-Ejercicios para el curso de Git impartido en Oesía
+# taller-git
+Material para el curso de Git impartido en Oesía
